@@ -24,4 +24,9 @@
 		font-size: 50px;
 		color: #fff;
 	}
+	@media only screen and (max-width: 600px) {
+		.header h1 {
+			font-size: 40px;
+		}
+	}
 </style>

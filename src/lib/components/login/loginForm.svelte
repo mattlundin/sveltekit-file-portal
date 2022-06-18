@@ -86,7 +86,7 @@
 		width: 60%;
 		margin: 0 auto;
 	}
-	@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+	@media only screen and (max-width: 780px) {
 		.login-form {
 			width: 90%;
 		}

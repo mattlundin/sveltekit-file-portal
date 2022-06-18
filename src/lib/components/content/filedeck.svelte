@@ -163,7 +163,7 @@
 
 	@media only screen and (max-width: 900px) {
 		.accordion {
-			width: 100%;
+			width: 98%;
 		}
 	}
 </style>
